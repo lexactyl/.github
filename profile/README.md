@@ -1,10 +1,8 @@
-# XE
-XE is an AI research company with a focus on faster and cheaper ai models made for users
+# Overview 
+Lexactyl is an open-source client area for pterodactyl panel built with next.js and ejs. Managed by Lynix
 
-# Discord
-Join our [discord server](https://discord.gg/Z24TkRDSUH) for using our services 
+# Support & Website
+[Website](https://lexactyl.com). Mail us at hello@lexactyl.com 
 
-# Support
-Mail us at support@xe.ai or join our discord for getting support
-
-(c) Copyright 2024 XE.AI. All right reserveds
+# License
+(c) Lynix. All Rights Reserved
